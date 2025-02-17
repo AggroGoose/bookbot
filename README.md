@@ -1,1 +1,1 @@
-Initializing Python Project for [boot.dev](https://www.boot.dev/) tutorial.
+BookBot is my first project!
